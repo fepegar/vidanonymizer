@@ -1,0 +1,6 @@
+python interp_clicks.py ~/scripts/videos_miccai_2021_supp/030_04_L_00.csv ~/scripts/videos_miccai_2021_supp/030_04_S_00.csv  ~/scripts/videos_miccai_2021_supp/030_04.mp4 ~/scripts/videos_miccai_2021_supp/030_04_blur.mp4
+python interp_clicks.py ~/scripts/videos_miccai_2021_supp/199_26_L_02.csv ~/scripts/videos_miccai_2021_supp/199_26_S_00.csv  ~/scripts/videos_miccai_2021_supp/199_26.mp4 ~/scripts/videos_miccai_2021_supp/199_26_blur.mp4
+python interp_clicks.py ~/scripts/videos_miccai_2021_supp/220_02_L_00.csv ~/scripts/videos_miccai_2021_supp/220_02_S_00.csv  ~/scripts/videos_miccai_2021_supp/220_02.mp4 ~/scripts/videos_miccai_2021_supp/220_02_blur.mp4
+python interp_clicks.py ~/scripts/videos_miccai_2021_supp/227_02_L_00.csv ~/scripts/videos_miccai_2021_supp/227_02_S_00.csv  ~/scripts/videos_miccai_2021_supp/227_02.mp4 ~/scripts/videos_miccai_2021_supp/227_02_blur.mp4
+python interp_clicks.py ~/scripts/videos_miccai_2021_supp/321_11_L_00.csv ~/scripts/videos_miccai_2021_supp/321_11_S_00.csv  ~/scripts/videos_miccai_2021_supp/321_11.mp4 ~/scripts/videos_miccai_2021_supp/321_11_blur.mp4
+python interp_clicks.py ~/scripts/videos_miccai_2021_supp/321_15_L_00.csv ~/scripts/videos_miccai_2021_supp/321_15_S_00.csv  ~/scripts/videos_miccai_2021_supp/321_15.mp4 ~/scripts/videos_miccai_2021_supp/321_15_blur.mp4
